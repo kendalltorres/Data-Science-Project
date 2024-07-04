@@ -5,13 +5,13 @@ Este proyecto se centra en la predicción de precios de casas utilizando técnic
 Estructura del Proyecto
 El proyecto está organizado en las siguientes carpetas y archivos:
 
-├── data
-│   ├── House-Prices-Advanced.csv
-│   ├── House_Prices_Advanced_Cleaned.csv
-│   ├── House_Prices_Advanced_Normalized.csv
-├── notebooks
-│   ├── data_cleaning.ipynb
-│   ├── machine_learning.ipynb
+── data
+├── House-Prices-Advanced.csv
+├── House_Prices_Advanced_Cleaned.csv
+├── House_Prices_Advanced_Normalized.csv
+── notebooks
+├── data_cleaning.ipynb
+├── machine_learning.ipynb
 └── README.md
 
 data: Contiene los conjuntos de datos originales, limpiados y normalizados.
