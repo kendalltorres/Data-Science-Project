@@ -6,17 +6,17 @@ Este proyecto se centra en la predicción de precios de casas utilizando técnic
 
 ## Estructura del Proyecto
 
-├── data
-│ ├── House-Prices-Advanced.csv
-│ ├── House_Prices_Advanced_Cleaned.csv
-│ ├── House_Prices_Advanced_Normalized.csv
-├── notebooks
-│ ├── data_cleaning.ipynb
-│ ├── machine_learning.ipynb
-└── README.md
 
-markdown
-Copiar código
+1. **data**
+   - `House-Prices-Advanced.csv`
+   - `House_Prices_Advanced_Cleaned.csv`
+   - `House_Prices_Advanced_Normalized.csv`
+
+2. **notebooks**
+   - `data_cleaning.ipynb`
+   - `machine_learning.ipynb`
+
+3. **README.md**
 
 - **data**: Contiene los conjuntos de datos originales, limpiados y normalizados.
 - **notebooks**: Contiene los notebooks de Jupyter utilizados para el procesamiento de datos y el desarrollo de modelos de Machine Learning.
